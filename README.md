@@ -30,6 +30,7 @@ The final report includes each of the following:
 - Percentage and Count of Other / Non-Disclosed
                    
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture4.PNG)
+
 ### Purchasing Analysis (Gender)
 - The below each broken by gender
   - Purchase Count
@@ -38,12 +39,14 @@ The final report includes each of the following:
   - Average Purchase Total per Person by Gender
   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture5.PNG)
+
 ### Age Demographics
 - The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
   - Total Count
   - Percentage of Players
   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture6.PNG)
+
 ### Purchasing Analysis (Age)
 - The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
   - Purchase Count
