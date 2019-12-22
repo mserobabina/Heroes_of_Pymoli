@@ -40,8 +40,8 @@ Final report includes each of the following:
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture5.PNG)
 ### Age Demographics
 - The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
-  - Percentage of Players
   - Total Count
+  - Percentage of Players
   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture6.PNG)
 ### Purchasing Analysis (Age)
@@ -80,11 +80,12 @@ Final report includes each of the following:
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture10.PNG)
 ## Conclusion:
 In this project, the information is used to express data visually and represent it to an audience in a clear format. I would like to focus on a couple of trends that caught my attention:
-- Take a look at "purchasing analisys by age", age group of 20-24 is interested in buying games the most.
-- If we take a closer look at "purchasing analysis by gender", we'll see that men were intersted in purchasing the game rather than women; interesting fact, that those women who made a dicision to commit to purchase the game, chose more expensive version than men did. 
+- Take a look at "purchasing analisys by age", the age group of 20-24 has been observed as a group which is interested in buying games the most.
+- If we take a closer look at "purchasing analysis by gender", we'll notice that men were intersted in purchasing the game rather than women; interesting fact, that those women who made a dicision to commit to purchase the game, chose more expensive version than men did. 
 - Also, I'd like to compare "most popular items" vs "most profitable", where /Oathbreaker, Last Hope of thye Breaking Storm/  was one of the most profitable as well as popular game at that time. While /Fierly Glass/ was second popular game, while on profitability list it was #3. 
-- Lastly, on the list of popularity /Nirvana/ was on the fourth position, while it was second the most profitable game to sell.
-Obviously, current analysis gives us not just better understanding of data given to us, but also let us look at the game market from the different prospective.
+- Lastly, on the list of popularity /Nirvana/ was on the fourth position, while it was second the most profitable game to be sold.
+
+It is obvious that a current analysis gives us not just better understanding of data given to us, but also let us look at the game market from the different prospective.
 
   
 
