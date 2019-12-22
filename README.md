@@ -12,6 +12,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 The final report includes each of the following:
 
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture1.PNG)
+
 ### Player Count 
 - Displaying the Total Number of Players
           
