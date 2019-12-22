@@ -25,6 +25,7 @@ The final report includes each of the following:
 - Total Revenue
                    
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture3.PNG)
+
 ### Gender Demographics
 - Percentage and Count of Male Players
 - Percentage and Count of Female Players
@@ -56,6 +57,7 @@ The final report includes each of the following:
   - Average Purchase Total per Person by Age Group
   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture7.PNG)
+
 ### Top Spenders
 - Identifing the the top 5 spenders in the game by total purchase value, then list (in a table):
   - SN(screen name)
