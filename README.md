@@ -14,7 +14,7 @@ Final report includes each of the following:
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture1.PNG)
 ### Player Count
 - Displaying the Total Number of Players
-
+          
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture2.PNG)
 
 ### Purchasing Analysis (Total)
@@ -22,13 +22,13 @@ Final report includes each of the following:
 - Average Purchase Price
 - Total Number of Purchases
 - Total Revenue
-
+                   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture3.PNG)
 ### Gender Demographics
 - Percentage and Count of Male Players
 - Percentage and Count of Female Players
 - Percentage and Count of Other / Non-Disclosed
-
+                   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture4.PNG)
 ### Purchasing Analysis (Gender)
 - The below each broken by gender
