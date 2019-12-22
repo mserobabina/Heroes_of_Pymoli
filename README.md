@@ -85,7 +85,7 @@ In this project, the information is used to express data visually and represent 
 - Also, I'd like to compare "most popular items" vs "most profitable", where /Oathbreaker, Last Hope of thye Breaking Storm/  was one of the most profitable as well as popular game at that time. While /Fierly Glass/ was second popular game, while on profitability list it was #3. 
 - Lastly, on the list of popularity /Nirvana/ was on the fourth position, while it was second the most profitable game to be sold.
 
-It is obvious that a current analysis gives us not just better understanding of data given to us, but also let us look at the game market from the different prospective.
+It is obvious that a current analysis gives us not just better understanding of data given to us, but also let us look at the game market from a different prospective.
 
   
 
