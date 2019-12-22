@@ -76,6 +76,7 @@ The final report includes each of the following:
   - Total Purchase Value 
   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture9.PNG)
+
 ### Most Profitable Items
 - Identify the 5 most profitable items by total purchase value, then list (in a table):
   - Item ID
@@ -85,6 +86,7 @@ The final report includes each of the following:
   - Total Purchase Value
   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture10.PNG)
+
 ## Conclusion:
 In this project, the information is used to express data visually and represent it to an audience in a clear format. I would like to focus on a couple of trends that caught my attention:
 - Take a look at "purchasing analisys by age", the age group of 20-24 has been observed as a group which is interested in buying games the most.
