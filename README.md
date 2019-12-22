@@ -14,6 +14,7 @@ Final report includes each of the following:
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture1.PNG)
 ## Player Count
 - Displaying the Total Number of Players
+
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture2.PNG)
 
 ## Purchasing Analysis (Total)
@@ -21,11 +22,13 @@ Final report includes each of the following:
 - Average Purchase Price
 - Total Number of Purchases
 - Total Revenue
+
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture3.PNG)
 ## Gender Demographics
 - Percentage and Count of Male Players
 - Percentage and Count of Female Players
 - Percentage and Count of Other / Non-Disclosed
+
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture4.PNG)
 ## Purchasing Analysis (Gender)
 - The below each broken by gender
@@ -33,11 +36,13 @@ Final report includes each of the following:
   - Average Purchase Price
   - Total Purchase Value
   - Average Purchase Total per Person by Gender
+  
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture5.PNG)
 ## Age Demographics
 - The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
   - Percentage of Players
   - Total Count
+  
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture6.PNG)
 ## Purchasing Analysis (Age)
 - The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
@@ -45,6 +50,7 @@ Final report includes each of the following:
   - Average Purchase Price
   - Total Purchase Value
   - Average Purchase Total per Person by Age Group
+  
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture7.PNG)
 ## Top Spenders
 - Identifing the the top 5 spenders in the game by total purchase value, then list (in a table):
@@ -52,6 +58,7 @@ Final report includes each of the following:
   - Purchase Count
   - Average Purchase Price
   - Total Purchase Value
+  
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture8.PNG)
 ## Most Popular Items
 - Identify the 5 most popular items by purchase count, then list (in a table):
@@ -60,6 +67,7 @@ Final report includes each of the following:
   - Purchase Count
   - Item Price
   - Total Purchase Value
+  
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture9.PNG)
 ## Most Profitable Items
 - Identify the 5 most profitable items by total purchase value, then list (in a table):
@@ -68,6 +76,7 @@ Final report includes each of the following:
   - Purchase Count
   - Item Price
   - Total Purchase Value
+  
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture10.PNG)
   
 
