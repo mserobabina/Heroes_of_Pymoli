@@ -66,7 +66,7 @@ The final report includes each of the following:
   - Item Name
   - Purchase Count
   - Item Price
-  - Total Purchase Value
+  - Total Purchase Value 
   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture9.PNG)
 ### Most Profitable Items
