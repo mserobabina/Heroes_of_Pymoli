@@ -66,6 +66,7 @@ The final report includes each of the following:
   - Total Purchase Value
   
 ![Test Image](https://github.com/mserobabina/Heroes_of_Pymoli/blob/master/Capture8.PNG)
+
 ### Most Popular Items
 - Identify the 5 most popular items by purchase count, then list (in a table):
   - Item ID
